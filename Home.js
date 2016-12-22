@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import { View, Text, TouchableHighlight,  StyleSheet,   Navigator } from 'react-native';
+import { View, Text, TouchableHighlight,  StyleSheet, Navigator } from 'react-native';
 import { styles } from './StyleSheet'
 import IndexLocations from './IndexLocations'
 
